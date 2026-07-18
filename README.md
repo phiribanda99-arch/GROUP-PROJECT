@@ -1,1 +1,1 @@
-# GROUP-PROJECT
+Habakkuk Project
